@@ -1,0 +1,5 @@
+Use `references/papers/siggraph-2026/` for the ten local SIGGRAPH 2026 papers, and treat every upstream repository under `external/` as read-only research reference code.
+For motion work, use ProtoMotions3 for GPU humanoid simulation and the GPC/PEFT path, MotionBricks for modular real-time motion synthesis, and ARDY for interactive text- and constraint-controlled generation; their papers are “Large-Scale Generative Pretraining for Transferable Motor Control,” “MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives,” and “ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation.”
+For material rendering, use Neural Appearance to learn compact neural models from MaterialX/MDL references; it accompanies “Taming Optimization Variance in Compact Neural Shading Networks.”
+  
+ Use `[# Idea Document: Generative Yoga Studio.md](%23%20Idea%20Document%3A%20Generative%20Yoga%20Studio.md)` as the project’s north-star product document.
